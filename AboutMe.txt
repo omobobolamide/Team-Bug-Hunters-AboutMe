@@ -1,0 +1,7 @@
+I am a dedicated QA Analyst with a keen eye for detail and a passion for delivering high-quality software solutions. With a strong background in manual and automated testing, I have developed expertise in identifying defects, ensuring functionality, and improving overall software performance.
+
+Currently, I am transitioning into a Software Tester role, expanding my skills in test automation, API testing, and performance testing to enhance my ability to deliver efficient and scalable testing solutions. I am proficient in Selenium, JIRA, Postman, and SQL, and continuously seek opportunities to improve testing strategies using automation tools and frameworks.
+
+My approach to software quality is rooted in a problem-solving mindset, effective collaboration with development teams, and a commitment to ensuring that end users experience seamless functionality. As I transition into software testing, I am focused on mastering test automation, refining my scripting abilities, and deepening my knowledge of CI/CD pipelines for continuous integration and deployment.
+
+I am eager to contribute my experience and growing expertise to teams that prioritize quality assurance, efficiency, and innovation in software development.
