@@ -456,7 +456,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n    \"bookId\": 1,\n    \"customerName\": \"Testify Academy\"\n}",
+							"raw": "{\n    \"bookId\": 1,\n    \"customerName\": \"Omobobola\"\n}",
 							"options": {
 								"raw": {
 									"language": "json"
